@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_usefulwebsiteopener/static/css/main.0058f74b.css",
+    "main.js": "/react_usefulwebsiteopener/static/js/main.21ed9007.js",
+    "index.html": "/react_usefulwebsiteopener/index.html",
+    "main.0058f74b.css.map": "/react_usefulwebsiteopener/static/css/main.0058f74b.css.map",
+    "main.21ed9007.js.map": "/react_usefulwebsiteopener/static/js/main.21ed9007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0058f74b.css",
+    "static/js/main.21ed9007.js"
+  ]
+}
